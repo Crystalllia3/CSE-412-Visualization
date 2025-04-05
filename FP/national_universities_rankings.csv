@@ -1,0 +1,279 @@
+Rank,College Name,Undergraduate Tuition & Fees($),Graduate Tuition & Fees($),SAT Score,Acceptance Rate,Population,Graduation Rate,Student:Faculty Ratio
+1,"Stanford UniversityStanford, CA",62484,59499,1550,0.04,18446,0.93,6.00
+2,"Harvard UniversityCambridge, MA",59076,55440,1550,0.03,30386,0.97,7.00
+3,"Massachusetts Institute of TechnologyCambridge, MA",60156,63393,1550,0.05,11920,0.96,3.00
+4,"Princeton UniversityPrinceton, NJ",59710,62860,1540,0.05,8922,0.97,5.00
+5,"Yale UniversityNew Haven, CT",64700,48300,1540,0.05,15081,0.96,6.00
+6,"Columbia University in the City of New YorkNew York, NY",68171,56279,1540,0.04,35279,0.95,6.00
+7,"University of PennsylvaniaPhiladelphia, PA",66104,46034,1540,0.06,28711,0.97,8.00
+8,"California Institute of TechnologyPasadena, CA",63255,63063,-,0.03,2463,0.93,3.00
+9,"University of ChicagoChicago, IL",65619,66543,1550,0.05,18339,0.95,5.00
+10,"Duke UniversityDurham, NC",65805,63985,1550,0.07,17112,0.96,6.00
+11,"Dartmouth CollegeHanover, NH",65511,64068,1540,0.06,6746,0.96,7.00
+12,"Northwestern UniversityEvanston, IL",65997,53871,1530,0.07,23203,0.96,6.00
+13,"Brown UniversityProvidence, RI",68230,67006,1540,0.05,11516,0.96,6.00
+14,"Georgetown UniversityWashington, DC",65081,59306,1500,0.13,20392,0.94,11.00
+15,"Rice UniversityHouston, TX",58128,54462,1550,0.08,8556,0.96,6.00
+16,"Cornell UniversityIthaca, NY",66014,30085,1520,0.08,26264,0.95,9.00
+17,"Vanderbilt UniversityNashville, TN",63946,56128,1540,0.06,13456,0.93,7.00
+18,"Carnegie Mellon UniversityPittsburgh, PA",63274,49450,1540,0.11,15596,0.93,5.00
+19,"University of Notre DameNotre Dame, IN",62693,62502,1500,0.12,13174,0.97,9.00
+20,"Tufts UniversityMedford, MA",67844,49476,1510,0.1,13274,0.93,10.00
+21,"Washington University in St LouisSaint Louis, MO",62982,62366,1540,0.12,16500,0.94,7.00
+22,"Johns Hopkins UniversityBaltimore, MD",62840,65956,1550,0.08,30362,0.95,6.00
+23,"University of Southern CaliforniaLos Angeles, CA",68237,68128,1510,0.1,47147,0.92,9.00
+24,"New York UniversityNew York, NY",60438,41124,1530,0.09,57335,0.88,8.00
+25,"Emory UniversityAtlanta, GA",60774,47722,1520,0.11,15046,0.92,9.00
+26,"Tulane University of LouisianaNew Orleans, LA",65538,66046,1450,0.15,13078,0.89,8.00
+27,"Boston CollegeChestnut Hill, MA",67680,35900,1490,0.16,15280,0.91,13.00
+28,"Georgia Institute of Technology-Main CampusAtlanta, GA",32876,30646,1450,0.16,47946,0.92,18.00
+29,"Lehigh UniversityBethlehem, PA",62180,28020,1430,0.29,7590,0.89,10.00
+30,"Boston UniversityBoston, MA",65168,64712,1470,0.11,36624,0.9,10.00
+31,"University of Virginia-Main CampusCharlottesville, VA",59633,36198,1490,0.17,25924,0.95,15.00
+32,"The University of Texas at AustinAustin, TX",42778,22954,1370,0.29,53082,0.88,18.00
+33,"Northeastern UniversityBoston, MA",63141,28100,1500,0.06,31159,0.9,16.00
+34,"Case Western Reserve UniversityCleveland, OH",64678,52402,1490,0.29,12266,0.87,9.00
+35,"Villanova UniversityVillanova, PA",64701,21361,1460,0.25,10111,0.92,10.00
+36,"University of California-BerkeleyBerkeley, CA",45627,30363,-,0.12,45699,0.93,18.00
+37,"University of California-Los AngelesLos Angeles, CA",44524,28985,-,0.09,46678,0.93,18.00
+38,"Brigham Young UniversityProvo, UT",6496,8096,1360,0.69,35074,0.82,21.00
+39,"University of MiamiCoral Gables, FL",59926,44858,1400,0.19,19593,0.84,11.00
+40,"George Washington UniversityWashington, DC",64798,35154,1430,0.44,25568,0.85,12.00
+41,"University of North Carolina at Chapel HillChapel Hill, NC",39330,30819,1470,0.19,32234,0.92,15.00
+42,"University of RochesterRochester, NY",64348,38863,1480,0.36,12160,0.84,9.00
+43,"Colorado School of MinesGolden, CO",44376,44376,1400,0.6,7599,0.79,17.00
+44,"University of FloridaGainesville, FL",28659,30130,1390,0.24,54814,0.92,16.00
+45,"University of Michigan-Ann ArborAnn Arbor, MI",60107,55052,1470,0.18,52065,0.93,11.00
+46,"Pepperdine UniversityMalibu, CA",66742,42020,1360,0.5,9545,0.85,13.00
+47,"Stevens Institute of TechnologyHoboken, NJ",60952,42988,1440,0.43,8842,0.9,10.00
+48,"Illinois Institute of TechnologyChicago, IL",50917,33810,1290,0.55,8563,0.72,17.00
+49,"Rensselaer Polytechnic InstituteTroy, NY",61884,61873,1410,0.58,7024,0.83,14.00
+50,"William & MaryWilliamsburg, VA",49412,36440,1450,0.33,9762,0.91,13.00
+51,"University of Illinois Urbana-ChampaignChampaign, IL",39192,33640,1410,0.44,56563,0.85,20.00
+52,"Drexel UniversityPhiladelphia, PA",60663,37074,1330,0.78,21703,0.77,9.00
+53,"Rutgers University-New BrunswickNew Brunswick, NJ",36001,36244,1380,0.65,50617,0.85,15.00
+54,"University of the PacificStockton, CA",55340,53544,1300,0.95,6755,0.68,14.00
+55,"Brandeis UniversityWaltham, MA",64946,61578,1470,0.35,5302,0.86,11.00
+56,"University of Wisconsin-MadisonMadison, WI",40603,25615,1450,0.43,49605,0.89,18.00
+57,"American UniversityWashington, DC",56543,33239,1380,0.47,13019,0.78,10.00
+58,"Texas A & M University-College StationCollege Station, TX",40328,24090,1260,0.63,76633,0.84,19.00
+59,"Wake Forest UniversityWinston-Salem, NC",64758,39350,1460,0.22,9121,0.91,9.00
+60,"Syracuse UniversitySyracuse, NY",63061,46318,1340,0.42,22948,0.81,15.00
+61,"Southern Methodist UniversityDallas, TX",64460,37062,1410,0.61,11842,0.83,11.00
+62,"University of Maryland-College ParkCollege Park, MD",40306,37383,1460,0.45,40813,0.89,18.00
+63,"University of ConnecticutStorrs, CT",43034,44106,1330,0.54,27364,0.84,16.00
+64,"Rochester Institute of TechnologyRochester, NY",56664,57764,1370,0.71,16863,0.71,13.00
+65,"Missouri University of Science and TechnologyRolla, MO",31678,25278,1260,0.73,7156,0.64,19.00
+66,"Virginia Polytechnic Institute and State UniversityBlacksburg, VA",36694,34085,1330,0.57,38294,0.86,17.00
+67,"Saint Louis UniversitySaint Louis, MO",53244,24494,1340,0.81,17202,0.8,8.00
+68,"Purdue University-Main CampusWest Lafayette, IN",28794,28794,1320,0.5,52905,0.83,14.00
+69,"University of UtahSalt Lake City, UT",29837,27056,1280,0.87,35260,0.64,18.00
+70,"North Carolina State University at RaleighRaleigh, NC",31767,31793,1380,0.4,37323,0.85,15.00
+71,"University of DelawareNewark, DE",39720,19546,1290,0.65,24221,0.79,15.00
+72,"Marquette UniversityMilwaukee, WI",48700,23845,1280,0.87,11373,0.8,13.00
+73,"University of Oklahoma-Norman CampusNorman, OK",26665,25342,1220,0.77,29145,0.75,17.00
+74,"Michigan State UniversityEast Lansing, MI",44040,41224,1250,0.84,51316,0.82,17.00
+75,"Duquesne UniversityPittsburgh, PA",47146,26568,1250,0.79,8137,0.76,12.00
+76,"University of DenverDenver, CO",59340,58347,1320,0.71,13387,0.78,10.00
+77,"University of GeorgiaAthens, GA",30220,26576,1270,0.37,41615,0.87,17.00
+78,"University of Illinois ChicagoChicago, IL",31505,28641,1230,0.79,33522,0.6,17.00
+79,"University of Massachusetts-AmherstAmherst, MA",39293,34720,1390,0.58,31810,0.83,18.00
+80,"Worcester Polytechnic InstituteWorcester, MA",58870,29040,-,0.59,7353,0.88,13.00
+81,"University of Alaska FairbanksFairbanks, AK",26404,25703,-,-,6640,0.32,12.00
+82,"St. John's University-New YorkQueens, NY",49911,34246,1210,0.8,19691,0.68,16.00
+83,"Fordham UniversityBronx, NY",61567,25954,1400,0.56,16153,0.8,14.00
+84,"University of Nevada-RenoReno, NV",25950,23540,-,0.85,21778,0.62,16.00
+85,"Yeshiva UniversityNew York, NY",49900,35150,1410,0.64,6826,0.84,7.00
+86,"University of Missouri-ColumbiaColumbia, MO",34338,31029,1230,0.77,31013,0.76,17.00
+87,"University of California-San DiegoLa Jolla, CA",46042,29637,-,0.25,42376,0.88,19.00
+88,"University of Minnesota-Twin CitiesMinneapolis, MN",36402,31555,1400,0.77,54890,0.85,16.00
+89,"Augusta UniversityAugusta, GA",23500,20002,1110,0.89,9862,0.49,16.00
+90,"University of Missouri-Kansas CityKansas City, MO",30734,30760,1440,0.75,15277,0.56,14.00
+91,"University of Washington-Seattle CampusSeattle, WA",41997,32511,-,0.43,55620,0.84,20.00
+92,"University of KentuckyLexington, KY",33406,35459,1170,0.92,32703,0.7,17.00
+93,"University of New Hampshire-Main CampusDurham, NH",38882,30138,1220,0.87,13626,0.76,16.00
+94,"University of California-Santa BarbaraSanta Barbara, CA",45742,29555,-,0.28,26068,0.85,17.00
+95,"Louisiana State University and Agricultural & Mechanical CollegeBaton Rouge, LA",28631,29962,1235,0.74,39418,0.71,20.00
+96,"University of HoustonHouston, TX",22191,19109,1230,0.7,46676,0.65,21.00
+97,"Baylor UniversityWaco, TX",54844,41130,1290,0.51,20824,0.8,15.00
+98,"Loyola University ChicagoChicago, IL",51716,22305,1250,0.81,17397,0.77,13.00
+99,"Florida State UniversityTallahassee, FL",21683,26707,1310,0.25,43234,0.83,17.00
+100,"University of VermontBurlington, VT",43890,32996,1340,0.6,14320,0.79,17.00
+101,"University of DaytonDayton, OH",47600,19040,1290,0.62,11304,0.82,15.00
+102,"University of Hawaii at ManoaHonolulu, HI",34218,34550,1120,0.7,19256,0.63,14.00
+103,"University of California-DavisDavis, CA",46024,29662,-,0.42,39707,0.85,21.00
+104,"University of Rhode IslandKingston, RI",35804,31952,1160,0.77,17351,0.71,17.00
+105,"University of Massachusetts-LowellLowell, MA",35396,28426,1250,0.85,16770,0.7,17.00
+106,"Ohio State University-Main CampusColumbus, OH",38365,41227,1400,0.51,60046,0.88,18.00
+107,"University of California-IrvineIrvine, CA",45014,29377,-,0.26,36582,0.86,18.00
+108,"University of TulsaTulsa, OK",48102,26928,1335,0.58,3559,0.73,9.00
+109,"University of Nebraska-LincolnLincoln, NE",27748,20318,1200,0.77,23986,0.66,16.00
+110,"Binghamton UniversityVestal, NY",29453,26260,1410,0.38,18456,0.84,18.00
+111,"Stony Brook UniversityStony Brook, NY",30350,27123,1410,0.49,25865,0.78,19.00
+112,"Florida Institute of TechnologyMelbourne, FL",44360,23280,1210,0.63,8516,0.65,13.00
+113,"University of ArkansasFayetteville, AR",28772,30220,1130,0.72,32140,0.7,20.00
+114,"Texas Christian UniversityFort Worth, TX",57220,35778,1270,0.43,12785,0.86,14.00
+115,"University of San DiegoSan Diego, CA",56444,29328,-,0.47,9110,0.82,14.00
+116,"University of MississippiUniversity, MS",26980,26980,1100,0.98,24043,0.68,17.00
+117,"University of Pittsburgh-Pittsburgh CampusPittsburgh, PA",39890,45034,1360,0.5,34525,0.84,13.00
+118,"Utah State UniversityLogan, UT",24223,24008,1180,0.94,28063,0.57,19.00
+119,"Azusa Pacific UniversityAzusa, CA",43600,17330,1145,0.79,6487,0.64,10.00
+120,"Lipscomb UniversityNashville, TN",38824,17100,1240,0.67,5047,0.69,13.00
+121,"Illinois State UniversityNormal, IL",23479,12646,1110,0.89,20989,0.66,19.00
+122,"South Dakota State UniversityBrookings, SD",12809,16917,1150,0.99,11498,0.6,17.00
+123,"Mississippi State UniversityMississippi State, MS",26580,26580,1220,0.76,22657,0.63,16.00
+124,"New Jersey Institute of TechnologyNewark, NJ",35934,36702,1335,0.67,13007,0.73,16.00
+125,"Benedictine UniversityLisle, IL",32546,20258,-,0.77,2989,0.51,13.00
+126,"Indiana University-IndianapolisIndianapolis, IN",33717,27992,1140,0.81,25497,0.54,14.00
+127,"University of ToledoToledo, OH",21102,28853,1180,0.95,14939,0.56,18.00
+128,"Indiana University-BloomingtonBloomington, IN",40482,33410,1280,0.8,47527,0.81,18.00
+129,"University of South DakotaVermillion, SD",12942,12768,1195,0.99,9868,0.61,14.00
+130,"University of San FranciscoSan Francisco, CA",58222,29140,1300,0.51,9212,0.71,12.00
+131,"Texas State UniversitySan Marcos, TX",23210,18301,1084,0.89,38722,0.56,21.00
+132,"University of Wisconsin-MilwaukeeMilwaukee, WI",22020,25697,-,0.88,22481,0.51,17.00
+133,"Biola UniversityLa Mirada, CA",46704,12420,1240,0.6,5296,0.69,14.00
+134,"Rutgers University-NewarkNewark, NJ",35348,36225,-,0.79,10809,0.68,13.00
+135,"University of LouisvilleLouisville, KY",29174,29102,1130,0.81,22139,0.61,14.00
+136,"University of Central FloridaOrlando, FL",22467,28657,1272,0.4,69233,0.75,29.00
+137,"University of Missouri-St LouisSaint Louis, MO",35820,35040,1130,0.57,14800,0.57,13.00
+138,"Louisiana Tech UniversityRuston, LA",16866,12726,1190,0.73,11427,0.58,22.00
+139,"Southern Illinois University-CarbondaleCarbondale, IL",13244,31050,1020,0.9,11359,0.56,11.00
+140,"University of New Mexico-Main CampusAlbuquerque, NM",26451,21550,1030,0.95,22700,0.53,15.00
+141,"University of Maryland-Baltimore CountyBaltimore, MD",30308,25146,1300,0.74,14148,0.71,18.00
+142,"University of La VerneLa Verne, CA",49450,15790,1115,0.48,5596,0.65,11.00
+143,"The New SchoolNew York, NY",56311,53018,-,0.63,9434,0.71,9.00
+144,"University of Louisiana at LafayetteLafayette, LA",24146,23912,1190,0.89,15345,0.52,18.00
+145,"George Mason UniversityFairfax, VA",37979,39397,1240,0.89,39527,0.69,16.00
+146,"Clarkson UniversityPotsdam, NY",57950,36856,1300,0.77,3603,0.74,12.00
+147,"Clemson UniversityClemson, SC",39498,24798,1320,0.38,28747,0.88,16.00
+148,"Michigan Technological UniversityHoughton, MI",43089,24929,1220,0.88,7313,0.69,13.00
+149,"Indiana University of Pennsylvania-Main CampusIndiana, PA",16297,18261,1050,0.91,9246,0.52,22.00
+150,"Montana State UniversityBozeman, MT",31337,24863,1160,0.87,16960,0.57,18.00
+151,"Clark UniversityWorcester, MA",55160,48590,1320,0.42,4124,0.77,9.00
+152,"University of Louisiana at MonroeMonroe, LA",21290,21500,1210,0.75,8272,0.51,16.00
+153,"Regent UniversityVirginia Beach, VA",20686,17828,1160,0.41,10168,0.54,20.00
+154,"University at BuffaloBuffalo, NY",30572,27338,1290,0.69,31889,0.73,11.00
+155,"Eastern Michigan UniversityYpsilanti, MI",16260,30072,1040,0.81,13324,0.45,15.00
+156,"Iowa State UniversityAmes, IA",27683,29303,1240,0.89,30177,0.75,18.00
+157,"Wright State University-Main CampusDayton, OH",20032,24714,1040,0.95,9884,0.46,15.00
+158,"Central Michigan UniversityMount Pleasant, MI",14312,16293,1090,0.91,14399,0.62,16.00
+159,"Ball State UniversityMuncie, IN",28766,29196,1160,0.72,20440,0.63,15.00
+160,"University of St ThomasSaint Paul, MN",52284,21992,1350,0.85,9121,0.75,13.00
+161,"Texas Woman's UniversityDenton, TX",18720,15450,-,0.95,15664,0.44,17.00
+162,"Adelphi UniversityGarden City, NY",47290,48075,1210,0.78,7406,0.69,12.00
+163,"University of South AlabamaMobile, AL",18652,17680,1100,0.65,13768,0.53,18.00
+164,"The University of MontanaMissoula, MT",31622,35314,-,0.96,10327,0.45,18.00
+165,"University of South FloridaTampa, FL",17324,21126,1230,0.41,48572,0.75,22.00
+166,"University of HartfordWest Hartford, CT",47647,15665,1200,0.83,5913,0.58,11.00
+167,"Maryville University of Saint LouisSaint Louis, MO",27166,15766,-,0.94,9883,0.72,13.00
+168,"University of South Carolina-ColumbiaColumbia, SC",34943,30160,1270,0.61,36579,0.78,18.00
+169,"Oklahoma State University-Main CampusStillwater, OK",25630,24595,1130,0.71,26043,0.66,18.00
+170,"Washington State UniversityPullman, WA",29073,29567,-,0.85,26490,0.62,15.00
+171,"University of Nevada-Las VegasLas Vegas, NV",26099,23933,1100,0.96,31094,0.5,18.00
+172,"Georgia Southern UniversityStatesboro, GA",16959,21424,1060,0.9,26041,0.52,24.00
+173,"New Mexico State University-Main CampusLas Cruces, NM",25271,19421,990,0.76,14779,0.52,15.00
+174,"University of Southern MississippiHattiesburg, MS",11618,11618,-,0.99,13110,0.51,15.00
+175,"The University of Tennessee-KnoxvilleKnoxville, TN",31974,32108,1260,0.46,36304,0.73,18.00
+176,"University of Colorado BoulderBoulder, CO",41943,38020,1330,0.83,41432,0.75,19.00
+177,"Kent State University at KentKent, OH",20880,23352,1110,0.87,26106,0.65,21.00
+178,"University of IowaIowa City, IA",32927,34882,1220,0.85,30042,0.73,15.00
+179,"Montclair State UniversityMontclair, NJ",24126,15137,1080,0.87,22570,0.64,17.00
+180,"The Catholic University of AmericaWashington, DC",55834,53220,-,0.84,5171,0.81,11.00
+181,"Dallas Baptist UniversityDallas, TX",38140,24508,1089,0.91,4201,0.6,16.00
+182,"San Diego State UniversitySan Diego, CA",20170,19228,-,0.34,39241,0.78,22.00
+183,"Miami University-OxfordOxford, OH",38124,36338,1290,0.82,18618,0.82,15.00
+184,"American International CollegeSpringfield, MA",42970,10983,-,0.97,2142,0.42,16.00
+185,"Florida International UniversityMiami, FL",18964,24439,1150,0.59,53953,0.74,24.00
+186,"Colorado State University-Fort CollinsFort Collins, CO",33765,29786,-,0.9,33500,0.67,17.00
+187,"Oakland UniversityRochester Hills, MI",24737,24648,1110,0.7,15922,0.57,17.00
+188,"University of Nebraska at OmahaOmaha, NE",22358,16860,-,0.87,15015,0.47,15.00
+189,"Kansas State UniversityManhattan, KS",27816,25147,1140,0.79,19745,0.7,18.00
+190,"University of Cincinnati-Main CampusCincinnati, OH",28240,26674,1250,0.88,43338,0.72,19.00
+191,"University of West FloridaPensacola, FL",18658,24894,1120,0.57,14371,0.62,22.00
+192,"University of California-Santa CruzSanta Cruz, CA",45337,29957,-,0.63,19764,0.74,22.00
+193,"Portland State UniversityPortland, OR",28257,24693,-,0.91,20519,0.53,16.00
+194,"Oregon State UniversityCorvallis, OR",35664,31698,-,0.79,35622,0.71,20.00
+195,"Suffolk UniversityBoston, MA",45380,36336,1190,0.85,6697,0.6,15.00
+196,"University of ArizonaTucson, AZ",38784,33961,1280,0.86,53001,0.66,19.00
+197,"Seton Hall UniversitySouth Orange, NJ",51370,36110,1300,0.79,9494,0.71,14.00
+198,"Seattle Pacific UniversitySeattle, WA",38814,20850,1200,0.91,2659,0.62,10.00
+199,"Gardner-Webb UniversityBoiling Springs, NC",33450,11300,1140,0.87,3125,0.62,11.00
+200,"The University of AlabamaTuscaloosa, AL",33200,33040,1280,0.76,39622,0.74,19.00
+201,"Hofstra UniversityHempstead, NY",55450,29950,1290,0.71,10393,0.67,13.00
+202,"Valdosta State UniversityValdosta, GA",17062,18106,1030,0.83,10151,0.42,17.00
+203,"Rowan UniversityGlassboro, NJ",25564,17645,1210,0.78,19660,0.68,16.00
+204,"Howard UniversityWashington, DC",33344,38050,1200,0.35,13416,0.69,11.00
+205,"University of KansasLawrence, KS",29412,26236,1160,0.88,28406,0.69,17.00
+206,"Texas Tech UniversityLubbock, TX",24451,17918,1170,0.71,40773,0.67,21.00
+207,"Mercer UniversityMacon, GA",33380,17865,1260,0.66,9124,0.73,13.00
+208,"Jackson State UniversityJackson, MS",9795,9795,960,0.91,6564,0.32,15.00
+209,"University of Alabama in HuntsvilleHuntsville, AL",24770,25484,1330,0.74,8743,0.62,17.00
+210,"California State University-FullertonFullerton, CA",18953,18011,-,0.87,41962,0.69,22.00
+211,"Temple UniversityPhiladelphia, PA",37248,28523,-,0.83,30205,0.75,12.00
+212,"St. John Fisher UniversityRochester, NY",39666,19912,1195,0.68,3674,0.74,12.00
+213,"University of North DakotaGrand Forks, ND",15570,19658,-,0.77,14172,0.63,17.00
+214,"Virginia Commonwealth UniversityRichmond, VA",38817,31589,1160,0.93,28238,0.65,17.00
+215,"Florida Agricultural and Mechanical UniversityTallahassee, FL",17725,24669,1090,0.21,9265,0.52,14.00
+216,"Pace UniversityNew York, NY",51424,29363,1220,0.77,14092,0.61,16.00
+217,"Grand Canyon UniversityPhoenix, AZ",17263,11124,1105,0.6,107563,0.43,21.00
+218,"North Dakota State University-Main CampusFargo, ND",15511,12538,-,0.96,11952,0.64,18.00
+219,"University of Alabama at BirminghamBirmingham, AL",21864,20556,1260,0.88,21160,0.63,18.00
+220,"California State University-FresnoFresno, CA",18860,17918,-,0.96,23986,0.55,18.00
+221,"Wayne State UniversityDetroit, MI",33158,41820,1140,0.82,23553,0.57,13.00
+222,"Northern Illinois UniversityDekalb, IL",12506,9090,-,0.7,15504,0.5,14.00
+223,"San Francisco State UniversitySan Francisco, CA",19304,18362,-,0.96,23908,0.5,16.00
+224,"The University of Texas at DallasRichardson, TX",40064,29468,1290,0.65,30885,0.71,27.00
+225,"University of North Carolina at CharlotteCharlotte, NC",21876,22438,1220,0.8,30298,0.68,21.00
+226,"University of Massachusetts-BostonBoston, MA",37171,38406,1180,0.83,15810,0.51,15.00
+227,"West Virginia UniversityMorgantown, WV",27360,28260,1120,0.86,24200,0.61,17.00
+228,"University of Akron Main CampusAkron, OH",17239,15171,1080,0.71,13518,0.48,16.00
+229,"University of North TexasDenton, TX",21244,16622,1100,0.72,47507,0.6,23.00
+230,"The University of Texas Rio Grande ValleyEdinburg, TX",19542,15994,1020,0.85,31931,0.49,19.00
+231,"University of California-RiversideRiverside, CA",44947,29468,-,0.63,26426,0.77,23.00
+232,"University at AlbanyAlbany, NY",28998,25875,-,0.7,16880,0.64,17.00
+233,"University of IdahoMoscow, ID",29784,29784,1076,0.79,11849,0.61,17.00
+234,"DePaul UniversityChicago, IL",44174,22525,1230,0.74,21348,0.7,17.00
+235,"The University of Texas at ArlingtonArlington, TX",29659,25345,1110,0.81,43992,0.57,23.00
+236,"Middle Tennessee State UniversityMurfreesboro, TN",29042,28170,1100,0.68,20183,0.54,17.00
+237,"Union UniversityJackson, TN",20302,11953,1190,0.47,2674,0.71,8.00
+238,"Auburn UniversityAuburn, AL",33944,33908,1310,0.5,33015,0.79,21.00
+239,"Immaculata UniversityImmaculata, PA",28550,12780,1150,0.78,2407,0.64,10.00
+240,"Northern Arizona UniversityFlagstaff, AZ",19015,22077,-,0.91,28186,0.57,19.00
+241,"Widener UniversityChester, PA",53638,27105,1170,0.84,5610,0.64,11.00
+242,"Andrews UniversityBerrien Springs, MI",33710,28440,1200,0.87,2837,0.66,10.00
+243,"Western Michigan UniversityKalamazoo, MI",19098,28454,1100,0.85,16693,0.58,16.00
+244,"Robert Morris UniversityMoon Township, PA",34740,20247,-,0.91,4737,0.66,14.00
+245,"The University of Texas at San AntonioSan Antonio, TX",22217,28753,1100,0.88,34864,0.51,25.00
+246,"University of OregonEugene, OR",41194,32709,1240,0.85,23786,0.71,20.00
+247,"Ohio University-Main CampusAthens, OH",24114,17712,1190,0.85,24937,0.66,18.00
+248,"Indiana State UniversityTerre Haute, IN",21734,16210,-,0.92,8304,0.41,17.00
+249,"Arizona State University Campus ImmersionTempe, AZ",32193,26735,-,0.9,79593,0.68,18.00
+250,"Sam Houston State UniversityHuntsville, TX",19020,16298,1050,0.85,21403,0.55,20.00
+251,"Cardinal Stritch UniversityMilwaukee, WI",35444,12128,-,-,1332,0.51,7.00
+252,"Georgia State UniversityAtlanta, GA",23709,23982,1160,0.62,34974,0.54,25.00
+253,"Bowling Green State University-Main CampusBowling Green, OH",21378,16283,1110,0.81,17027,0.63,17.00
+254,"Texas A & M University-KingsvilleKingsville, TX",26106,14560,1030,0.92,6562,0.46,16.00
+255,"Kennesaw State UniversityKennesaw, GA",17040,20524,1120,0.69,45069,0.48,23.00
+256,"Idaho State UniversityPocatello, ID",27466,30152,-,-,12614,0.38,13.00
+257,"University of Arkansas at Little RockLittle Rock, AR",22067,15100,1040,0.58,8158,0.41,11.00
+258,"East Tennessee State UniversityJohnson City, TN",13034,25904,1050,0.87,13586,0.5,18.00
+259,"Nova Southeastern UniversityFort Lauderdale, FL",37080,24140,1180,0.73,20877,0.64,17.00
+260,"University of MaineOrono, ME",35346,30948,-,0.96,11760,0.56,15.00
+261,"Spalding UniversityLouisville, KY",27672,13110,985,0.99,1555,0.57,11.00
+262,"Old Dominion UniversityNorfolk, VA",32662,35008,1190,0.91,22541,0.44,15.00
+263,"University of WyomingLaramie, WY",22718,20996,-,0.97,10913,0.6,13.00
+264,"Tennessee State UniversityNashville, TN",22284,23516,985,0.93,8198,0.33,13.00
+265,"Florida Atlantic UniversityBoca Raton, FL",17324,18482,1110,0.73,30790,0.64,23.00
+266,"North Carolina A & T State UniversityGreensboro, NC",20408,20903,1080,0.46,13885,0.55,20.00
+267,"University of North Carolina at GreensboroGreensboro, NC",23339,22676,1180,0.9,17743,0.58,17.00
+268,"Trinity International University-IllinoisDeerfield, IL",12320,18520,-,0.93,852,0.46,9.00
+269,"University of MemphisMemphis, TN",14784,15228,1070,0.93,21736,0.49,17.00
+270,"Trevecca Nazarene UniversityNashville, TN",30090,12624,1090,0.7,3196,0.55,22.00
+271,"Boise State UniversityBoise, ID",26976,28605,-,0.84,26670,0.62,19.00
+272,"SUNY College of Environmental Science and ForestrySyracuse, NY",21036,26389,-,0.83,2737,0.7,14.00
+273,"The University of Texas at El PasoEl Paso, TX",25512,16621,980,1,24351,0.46,20.00
+274,"Ashland UniversityAshland, OH",26390,7776,1080,0.81,4143,0.61,15.00
+275,"Tennessee Technological UniversityCookeville, TN",20116,20740,1110,0.83,10117,0.54,16.00
+276,"Liberty UniversityLynchburg, VA",15822,8340,-,0.99,103068,0.63,18.00
+277,"University of Management and TechnologyArlington, VA",9450,7110,-,-,1167,1,30.00
+,Average,50647,40070,1404,0.41,25171,0.84,13.00
